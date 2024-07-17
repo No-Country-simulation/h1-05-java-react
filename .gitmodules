@@ -1,3 +1,6 @@
 [submodule "h1-05-front"]
 	path = h1-05-front
 	url = https://github.com/No-Country-simulation/h1-05-front.git
+[submodule "h1-05-back"]
+	path = h1-05-back
+	url = https://github.com/LucianaMazur/h1-05-java-react
