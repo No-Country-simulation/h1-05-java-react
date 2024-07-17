@@ -1,0 +1,3 @@
+[submodule "h1-05-front"]
+	path = h1-05-front
+	url = https://github.com/No-Country-simulation/h1-05-front.git
