@@ -1,4 +1,5 @@
 # JustinaIO
+- **Despliegue:** [justinaio.vercel.app](https://justinaio.vercel.app/)
 
 JustinaIO es una aplicación web que conecta a médicos y pacientes que necesitan trasplantes, facilitando el intercambio de información crucial. Es una plataforma completamente responsiva diseñada para ofrecer una experiencia de usuario óptima en diversos dispositivos.
 
